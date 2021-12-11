@@ -1,3 +1,5 @@
-.terminal-error {
-    color: black;
+.terminal {
+    --size: 1.5;
+
+    cursor:none;
 }
